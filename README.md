@@ -52,7 +52,7 @@
   </section>
 
   <section>
-    <h2>Current Prototype Link</h2>
+    <h2>Latest Prototype Link</h2>
     <p>
       <a href="[https://github.com/bnpati/GuidanceHub](https://github.com/bnpati/GuidanceHub-April25-Frontend)" target="_blank">Latest Prototype (April 2025) Link Here</a>
     </p>
